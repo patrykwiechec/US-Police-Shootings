@@ -51,7 +51,7 @@
 
 <p>Źródło danych dla projektu "US Police Shootings" stanowi zbiór dostępny na platformie Kaggle pod adresem: https://www.kaggle.com/datasets/ahsen1330/us-police-shootings</p>
 
-<p>Ten zbiór danych zawiera informacje dotyczące strzelanin z wynikiem śmiertelnym pomiędzy półświatkiem a policją w Stanach Zjednoczonych. Dane zostały zebrane w celu zrozumienia i analizy zjawiska rasizmu w Ameryce oraz identyfikacji kluczowych czynników wpływających na takie incydenty.</p>
+<p>Ten zbiór danych zawiera informacje dotyczące strzelanin z wynikiem śmiertelnym pomiędzy policją, a potencjalnymi przestępcami. Dane zostały zebrane w celu zrozumienia i analizy zjawiska rasizmu w Ameryce oraz identyfikacji kluczowych czynników wpływających na takie incydenty.</p>
 
 <p>Zbiór danych zawiera różnorodne informacje dotyczące każdej strzelaniny, takie jak:
 
