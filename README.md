@@ -30,7 +30,7 @@
 
 <p>3. W ramach celu strategicznego, aplikacja zostanie stworzona z myślą o dostępności on-line, co oznacza, że będzie dostępna poprzez serwer IIS lub platformę Azure. Użytkownicy będą mieli możliwość korzystania z aplikacji za pośrednictwem przeglądarki internetowej, co zwiększy użyteczność i łatwość dostępu do analizowanych danych. Jako twórca zajmę się kompleksową analizą danych z portalu Kaggle oraz ich wizualizacją, bo będzie stanowiło główną wartość projektu. Po osiągnięciu celu projekt będzie wykonany w 90%.</p>
 
-<p>4. Czas pozostały przeznaczę na dopieszczenie elementów wizualnych oraz naprawą napotkanych błędów i niedociągnieć. Po osiągnięciu celu projekt będzie wykonany w 100%.</p>
+<p>4. Czas pozostały przeznaczę na dopieszczenie elementów wizualnych oraz naprawę napotkanych błędów i niedociągnieć. Po osiągnięciu celu projekt będzie wykonany w 100%.</p>
 
 <p>Projekt będzie realizowany etapami, a po osiągnięciu każdego etapu, określona część funkcjonalności będzie w pełni wykonana i dostępna dla użytkowników. Po zakończeniu projektu, aplikacja będzie oferować kompleksową analizę i wizualizację danych dotyczących strzelanin z możliwością zarządzania bazą danych. Podsumowując, celem tego projektu jest stworzenie aplikacji umożliwiającej analizę i wizualizację danych o strzelaninach z wynikiem śmiertelnym w kontekście rasizmu i nierówności społecznych. Aplikacja będzie również zawierała funkcje CRUD, pozwalające na zarządzanie bazą danych zawierającą informacje o incydentach. Projekt będzie realizowany etapami, a po zakończeniu, użytkownicy będą mieli dostęp do kompleksowej aplikacji on-line.</p>
 
