@@ -63,10 +63,6 @@
 -Czy napastnik był nagrywany przez kamerę policyjną,<br>
 -Inne szczegóły związane z danym zdarzeniem.<br></p>
 
-<p>Dane te stanowią wartościowe źródło informacji do analizy i wizualizacji, które pozwolą na zrozumienie oraz identyfikację korelacji między rasą, a liczbą incydentów i poziomem zagrożenia napastnika. Poprzez analizę tych danych, możliwe jest odkrycie istotnych wzorców i trendów, które mogą rzucić światło na problem rasizmu w Ameryce oraz podjąć świadome działania w celu minimalizacji liczby takich tragicznych zdarzeń. </p>
-
-<p>Wykorzystanie tego źródła danych umożliwi stworzenie aplikacji do analizy i wizualizacji, której celem będzie dostarczenie rzetelnych informacji oraz zrozumienie nierówności rasowych oraz identyfikacja kluczowych czynników wpływających na incydenty strzelanin z wynikiem śmiertelnym.</p>
-
 </body>
 
 
