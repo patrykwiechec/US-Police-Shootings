@@ -34,7 +34,7 @@
 
 <p>Projekt będzie realizowany etapami, a po osiągnięciu każdego etapu, określona część funkcjonalności będzie w pełni wykonana i dostępna dla użytkowników. Po zakończeniu projektu, aplikacja będzie oferować kompleksową analizę i wizualizację danych dotyczących strzelanin z możliwością zarządzania bazą danych. Podsumowując, celem tego projektu jest stworzenie aplikacji umożliwiającej analizę i wizualizację danych o strzelaninach z wynikiem śmiertelnym w kontekście rasizmu i nierówności społecznych. Aplikacja będzie również zawierała funkcje CRUD, pozwalające na zarządzanie bazą danych zawierającą informacje o incydentach. Projekt będzie realizowany etapami, a po zakończeniu, użytkownicy będą mieli dostęp do kompleksowej aplikacji on-line.</p>
 
-<h2>Przykładowa faza projektu dla Twojej aplikacji analizy i wizualizacji danych:</h2>
+<h2>Zakres projektu oraz jego fazy:</h2>
 
 1. Utworzenie dokumentacji projektu, określenie celów, założeń i wymagań. <br>
 2. Konfiguracja środowiska wirtualnego dla projektu w języku Python.<br>
