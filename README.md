@@ -49,22 +49,23 @@
 
 <h2>Źródło danych:</h2>
 
-<p>Źródło danych dla projektu "US Police Shootings" stanowi zbiór dostępny na platformie Kaggle pod adresem: <a href="https://www.kaggle.com/datasets/ahsen1330/us-police-shootings>LINK</a></p>
+<p>Źródło danych dla projektu "US Police Shootings" stanowi zbiór dostępny na platformie Kaggle pod adresem: https://www.kaggle.com/datasets/ahsen1330/us-police-shootings</p>
 
-Ten zbiór danych zawiera informacje dotyczące strzelanin z wynikiem śmiertelnym pomiędzy półświatkiem a policją w Stanach Zjednoczonych. Dane zostały zebrane w celu zrozumienia i analizy zjawiska rasizmu w Ameryce oraz identyfikacji kluczowych czynników wpływających na takie incydenty.
+<p>Ten zbiór danych zawiera informacje dotyczące strzelanin z wynikiem śmiertelnym pomiędzy półświatkiem a policją w Stanach Zjednoczonych. Dane zostały zebrane w celu zrozumienia i analizy zjawiska rasizmu w Ameryce oraz identyfikacji kluczowych czynników wpływających na takie incydenty.</p>
 
-Zbiór danych zawiera różnorodne informacje dotyczące każdej strzelaniny, takie jak:
+<p>Zbiór danych zawiera różnorodne informacje dotyczące każdej strzelaniny, takie jak:
 
-Imię, wiek, płeć i rasa osoby zastrzelonej,
-Data, miejsce i stan, w którym doszło do incydentu,
-Informacje o napastniku i podejrzanym, takie jak wiek, płeć, rasa, czy był uzbrojony i czy wykazywał objawy chorób psychicznych,
-Okoliczności strzelania i czy napastnik próbował ucieczki,
-Informacje o użytej broni przez podejrzanego,
-Czy napastnik był nagrywany przez kamerę policyjną,
-Inne szczegóły związane z danym zdarzeniem.
-Dane te stanowią wartościowe źródło informacji do analizy i wizualizacji, które pozwolą na zrozumienie oraz identyfikację korelacji między rasą, a liczbą incydentów i poziomem zagrożenia napastnika. Poprzez analizę tych danych, możliwe jest odkrycie istotnych wzorców i trendów, które mogą rzucić światło na problem rasizmu w Ameryce oraz podjąć świadome działania w celu minimalizacji liczby takich tragicznych zdarzeń.
+-Imię, wiek, płeć i rasa osoby zastrzelonej,<br>
+-Data, miejsce i stan, w którym doszło do incydentu,<br>
+-Informacje o napastniku i podejrzanym, takie jak wiek, płeć, rasa, czy był uzbrojony i czy wykazywał objawy chorób psychicznych,<br>
+-Okoliczności strzelania i czy napastnik próbował ucieczki,<br>
+-Informacje o użytej broni przez podejrzanego,<br>
+-Czy napastnik był nagrywany przez kamerę policyjną,<br>
+-Inne szczegóły związane z danym zdarzeniem.<br></p>
 
-Wykorzystanie tego źródła danych umożliwi stworzenie aplikacji do analizy i wizualizacji, której celem będzie dostarczenie rzetelnych informacji oraz zrozumienie nierówności rasowych oraz identyfikacja kluczowych czynników wpływających na incydenty strzelanin z wynikiem śmiertelnym.
+<p>Dane te stanowią wartościowe źródło informacji do analizy i wizualizacji, które pozwolą na zrozumienie oraz identyfikację korelacji między rasą, a liczbą incydentów i poziomem zagrożenia napastnika. Poprzez analizę tych danych, możliwe jest odkrycie istotnych wzorców i trendów, które mogą rzucić światło na problem rasizmu w Ameryce oraz podjąć świadome działania w celu minimalizacji liczby takich tragicznych zdarzeń. </p>
+
+<p>Wykorzystanie tego źródła danych umożliwi stworzenie aplikacji do analizy i wizualizacji, której celem będzie dostarczenie rzetelnych informacji oraz zrozumienie nierówności rasowych oraz identyfikacja kluczowych czynników wpływających na incydenty strzelanin z wynikiem śmiertelnym.</p>
 
 </body>
 
