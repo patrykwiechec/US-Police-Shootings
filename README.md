@@ -1,7 +1,8 @@
 <h1>Karta projektu o roboczej nazwie „US Police Shootings”</h1>
 
-<h2>##Zakres udziałowców i cele projektu:</h2>
+<h2>Zakres udziałowców i cele projektu:</h2>
 Twórca aplikacji: Patryk Wiecheć
+<br>
 Klient: WSEI Kraków
 
 <h2>Motwyacja projektu:</h2>
