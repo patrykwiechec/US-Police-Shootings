@@ -63,6 +63,9 @@
 -Czy napastnik był nagrywany przez kamerę policyjną,<br>
 -Inne szczegóły związane z danym zdarzeniem.<br></p>
 
+<h2>Śledzenie stanu pracy:</h2>
+<p>W celu zarządzania pracą wspieram się stroną Trello:
+https://trello.com/b/qk2rcZsS/analiza-danych</p>
 </body>
 
 
