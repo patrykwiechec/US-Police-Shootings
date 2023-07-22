@@ -33,6 +33,20 @@
 <p>4. Czas pozostały przeznaczę na dopieszczenie elementów wizualnych oraz naprawą napotkanych błędów i niedociągnieć. Po osiągnięciu celu projekt będzie wykonany w 100%.</p>
 
 <p>Projekt będzie realizowany etapami, a po osiągnięciu każdego etapu, określona część funkcjonalności będzie w pełni wykonana i dostępna dla użytkowników. Po zakończeniu projektu, aplikacja będzie oferować kompleksową analizę i wizualizację danych dotyczących strzelanin z możliwością zarządzania bazą danych. Podsumowując, celem tego projektu jest stworzenie aplikacji umożliwiającej analizę i wizualizację danych o strzelaninach z wynikiem śmiertelnym w kontekście rasizmu i nierówności społecznych. Aplikacja będzie również zawierała funkcje CRUD, pozwalające na zarządzanie bazą danych zawierającą informacje o incydentach. Projekt będzie realizowany etapami, a po zakończeniu, użytkownicy będą mieli dostęp do kompleksowej aplikacji on-line.</p>
+
+<h2>Przykładowa faza projektu dla Twojej aplikacji analizy i wizualizacji danych:</h2>
+
+1. Utworzenie dokumentacji projektu, określenie celów, założeń i wymagań. <br>
+2. Konfiguracja środowiska wirtualnego dla projektu w języku Python.<br>
+3. Implementacja modelu bazy danych za pomocą ORM SQLAlchemy.<br>
+4. Stworzenie aplikacji Flask i podstawowej konfiguracji.<br>
+5. Dodanie bibliotek NumPy, Pandas i Matplotlib do projektu.<br>
+6. Implementacja logiki przetwarzania danych dotyczących strzelanin.<br>
+7. Opracowanie szablonów HTML i stylizacja ich za pomocą CSS.<br>
+8. Implementacja operacji CRUD do zarządzania danymi w bazie.<br>
+9. Testowanie aplikacji za pomocą testów jednostkowych i integracyjnych.<br>
+10. Wdrożenie aplikacji na serwerze IIS lub platformie Azure dla dostępności online.<br>
+
 </body>
 
 
