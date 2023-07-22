@@ -1,11 +1,4 @@
-<head>
-  <style>
-  body *{
-    font-size: 12px;  
-  }
-  </style>
-</head>
-<body>
+<body style="font-size:12px;">
   <h1>Karta projektu o roboczej nazwie „US Police Shootings”</h1>
   
   <h2>Zakres udziałowców i cele projektu:</h2>
